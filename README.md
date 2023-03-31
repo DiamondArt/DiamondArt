@@ -31,10 +31,10 @@
 
 - **Languages**:
     
-    ![Php](https://img.shields.io/badge/Php%20-%4f5b93.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![Php](https://img.shields.io/badge/Php%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=java%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Dart](https://img.shields.io/badge/Dart%20-%205b97.svg?style=for-the-badge&logo=dart&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart%20-%2314354C.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <br>   
     
@@ -44,7 +44,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Angular](https://img.shields.io/badge/Angular%20-%b52e31.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter%20-%53c5f9.svg?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter%20-%23F7DF1E.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br>
 
