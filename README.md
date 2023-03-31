@@ -31,18 +31,20 @@
 
 - **Languages**:
     
-    ![Php](https://img.shields.io/badge/Php%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Php](https://img.shields.io/badge/Php%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=java%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart%20-%2314354C.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <br>   
     
-- **Front-End Development**:
+- **Front-End and mobile Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Angular](https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=red)
+   ![Angular](https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter%20-%23F7DF1E.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br>
 
@@ -103,7 +105,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/melissa-kouadio-2077bb14a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xMelissa Kouadio-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Melissa Kouadio-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -111,7 +113,7 @@
 
 <li>
 <a href="https://twitter.com/MelisseKouadio" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xMelissa Kouadio-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  Melissa Kouadio-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -119,7 +121,7 @@
 
 <li>
 <a href="mailto:0xangemelisk@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xMelissa Kouadio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Melissa Kouadio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -132,11 +134,6 @@
 <br>
 <br>
 
-
-
----
-
-<br>
 
 Credit: [Melissa Kouadio](https://github.com/DiamondArt)
 
