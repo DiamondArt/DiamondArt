@@ -44,7 +44,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Angular](https://img.shields.io/badge/Angular%20-%2b52e31.svg?style=for-the-badge&logo=angular&color=red&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter%20-%23F7DF1E.svg?style=for-the-badge&logo=flutter&color=information&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter%20-%23F7DF1E.svg?style=for-the-badge&logo=flutter&color=informational&logoColor=white)
 
 <br>
 
